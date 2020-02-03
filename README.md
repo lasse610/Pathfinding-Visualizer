@@ -9,6 +9,7 @@ Visualizes how pathfinding algorithms work.
  **Functionality**
  
  - Toggle walls on and off.
+ - Create multiple walls by pressing and dragging the mouse.
  - Move start and finish node positions.
  - Recalculate shortest path by dragging the finish node to a new location after pathfinding algorithm has finished.
  - Create mazes with recursive division maze algorithm.
